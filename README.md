@@ -12,7 +12,8 @@ This is a simple implementation of the classic Tic-Tac-Toe game in Python. The g
 1. Clone the repository or download the Python file.
 2. Run the Python file in a terminal or command prompt:
    ```bash
-   python3 tic_tac_toe.py
+   python3 tic_tac_toe.py -- linux
+   python tic_tac_toe.py -- windows
 
 
 Developer/Creator: Aishik Mukherjee
